@@ -82,8 +82,3 @@ def create_file(dictionary):
 
 create_file(result)
 
-
-# 2 * x ** 5 + 2 * x ** 4 + x ** 2 + 2 * x + 3 = 0
-# x ** 5 + 2 * x ** 4 + x ** 3 + x ** 2 + 1 = 0
-
-# 3 * x ** 5 + 4 * x ** 4 + x ** 3 + 2 * x ** 2 + 2 * x + 4 = 0
